@@ -1,2 +1,2 @@
 # bhrt
-thi sis my first commit after 4 months
+this is my first commit after 4 months
